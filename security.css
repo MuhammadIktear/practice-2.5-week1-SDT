@@ -1,0 +1,189 @@
+li {
+    font-size: 20px;
+    list-style: none;
+    color: rgb(216, 149, 4);
+}
+
+li:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+.menu-container {
+    display: flex;
+    gap: 20px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    width: 80px;
+}
+
+.security-img {
+    width: 500px;
+}
+
+.security-image {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.hh {
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: space-around;
+}
+
+.header1 {
+    font-size: 30px;
+    color: rgb(199, 121, 26);
+}
+
+.header2 {
+    color: white;
+    font-size: 50px;
+}
+
+.btn-read-more {
+    padding: 15px;
+    border: none;
+    background-color: rgb(138, 104, 53);
+    color: black;
+}
+
+.header-top {
+    background-image: url('mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.all-logo{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(242, 239, 239);
+}
+.header-services{
+    font-size: 40px;
+}
+.services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.services-container {
+    margin-top: 50px;
+    display: flex;
+    gap: 50px;  
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+
+.services-card1 {
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.image-corection {
+    margin-top: 15px;
+}
+.security-image2{
+    margin-top: 50px;
+}
+.Hire {
+    display: inline-block;              
+    padding: 10px 20px;                
+    background-color: rgb(44, 108, 171);
+    color: white;                       
+    border-radius: 5px;               
+    cursor: pointer;                   
+    text-align: center;                
+}
+.Heighlight{
+    color: rgb(249, 159, 50);
+}
+.para{
+    font-size: 50px;
+}
+
+.last-section {
+    display: flex;
+    align-items: center;
+    padding: 25px;
+}
+.security-image2 {
+    margin-left: 100px;
+    margin-right: 250px; 
+}
+.last-section-right{
+    width: 800px
+}
+.last-section-last{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+.last-section-last img{
+    margin-right: 15px;
+}
+.last1{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.color1{
+    color: rgb(244, 141, 16);
+}
+.color2{
+    color: rgb(248, 155, 41);
+}
+.section-first{
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    text-align: center;
+}
+.section-second{
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    text-align: center;
+}
+.div1{
+    color: rgb(243, 156, 24);
+}
+.section-third{
+    margin-top: 50px;
+    text-align: center;
+}
+.section-third-one{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.footer{
+    color: rgb(169, 171, 172);
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: rgb(19, 18, 18);
+}
+.input-box{
+    padding: 15px 30px;
+}
